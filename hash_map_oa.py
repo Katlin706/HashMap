@@ -1,8 +1,7 @@
 # Name: Katlin Hopkins
-# OSU Email: hopkinka@oregonstate.edu
 # Course: CS261 - Data Structures
 # Assignment: Assignment 6 - HashMap
-# Due Date: 03/13/2025
+# Date: 03/13/2025
 # Description: The code provides a class for a HashMap that is implemented with Open Addressing with
 #                Quadratic Probing for collision resolution.
 
