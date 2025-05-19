@@ -7,7 +7,7 @@
 
 # Citation 
 # Date: 03/13/205
-# Code from lines 16 through 94 copied from Source URL, which includes imports, HashMap class definition and methods for
+# Code from lines 15 through 93 copied from Source URL, which includes imports, HashMap class definition and methods for
 # __init__, __str__, _next_prime, _is_prime, get_size, and get_capacity
 # Source: Canvas Course Material from Oregon State University, CS261 Data Structures
 # URL: https://canvas.oregonstate.edu/courses/1987672/assignments/9952381?module_item_id=25200974
